@@ -1,6 +1,6 @@
 # Popunder JavaScript Script
 
-Bu depo, bir popunder (arka planda açılan yeni pencere) açan JavaScript kodunu içerir.
+Popunder (arka planda açılan yeni pencere) açan JavaScript kodunu içerir.
 
 ## Kullanım
 
