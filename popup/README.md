@@ -9,7 +9,7 @@ Basit, hızlı ve **mobil uyumlu** bir popup sistemidir.
 
 Aşağıdaki görsel, popup’ın nasıl göründüğünü gösterir:
 
-![Popup Örneği](popup/popup.png)
+![Popup Örneği](/popup.png)
 
 Bu popup, **tam ekran bir modal pencere** olarak açılır ve kullanıcının dikkatini çekmek için tasarlanmıştır.  
 Popup, **isteğe bağlı olarak kapatılabilir**.
@@ -26,6 +26,8 @@ Bu projenin `popup` klasörünü sitenizin içine ekleyin.
 Popup'ı kullanmak için, **popup.php ve popup.css dosyasını ana sayfanızda çağırmanız gerekir.**  
 
 
+<!-- 
 <link rel="stylesheet" href="/popup/popup.css">
 
 <?php include 'popup/popup.php'; ?>
+ -->
