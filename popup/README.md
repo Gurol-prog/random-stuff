@@ -9,7 +9,7 @@ Basit, hızlı ve **mobil uyumlu** bir popup sistemidir.
 
 Aşağıdaki görsel, popup’ın nasıl göründüğünü gösterir:
 
-![Popup Örneği](/popup.png)
+![Popup Örneği](/popup/popup.png)
 
 Bu popup, **tam ekran bir modal pencere** olarak açılır ve kullanıcının dikkatini çekmek için tasarlanmıştır.  
 Popup, **isteğe bağlı olarak kapatılabilir**.
