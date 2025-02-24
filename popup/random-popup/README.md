@@ -11,7 +11,9 @@ Popup, **isteğe bağlı olarak kapatılabilir**.
 Popup bileşeninin çerçeve, arka plan ve buton renkleri gibi görsel özellikleri, popup.css dosyasında neresi olduğu gösterilmiştir.
 ---
 
+Daha önceki popuptan farklı olarak burada birden fazla popup eklemsi sağlıyoruz ve onların rastgele olarak ekranda gözükmelerini sağlıyoruz. 
 
+script kısmında bulunan images koduna istediğimiz popup görsellerinin isimlerini girmemiz yeterli olacaktır.
 
 ## 🚀 Kurulum ve Kullanım
 
